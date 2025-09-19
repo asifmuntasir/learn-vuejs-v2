@@ -1,5 +1,5 @@
 
-# Learn VueJS - Version 3 Latest
+# Recap & Learn VueJS - Version 3 Latest
 
 I'm trying to learn VeuJS for my Internship.
 
